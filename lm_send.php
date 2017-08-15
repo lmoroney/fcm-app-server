@@ -32,7 +32,7 @@
 
 	$url = 'https://fcm.googleapis.com/fcm/send';
 	$headers = array(
-		'Authorization: key=AIzaSyA_WqP8f879ZrrO5TStX7XkcIpdMdgo6uo',
+		'Authorization: key=<Get Auth Key from Firebase Console>',
 		'Content-Type: application/json'
 	);
 	
